@@ -1,6 +1,12 @@
-# spacex
+# Spacex
 
-A new Flutter project.
+Aplikacja zawierająca informacje o rakietach Spacex.
+
+![Screen_1](https://github.com/dejwid03/spacex/blob/main/screenshots/Screenshot_1715029871.png)
+![Screen_2](https://github.com/dejwid03/spacex/blob/main/screenshots/Screenshot_1715029876.png)
+![Screen_3](https://github.com/dejwid03/spacex/blob/main/screenshots/Screenshot_1715029881.png)
+![Screen_4](https://github.com/dejwid03/spacex/blob/main/screenshots/Screenshot_1715029885.png)
+![Screen_5](https://github.com/dejwid03/spacex/blob/main/screenshots/Screenshot_1715029887.png)
 
 ## Getting Started
 
